@@ -1,8 +1,8 @@
-<h1 align="center"> XJN2 (Austin T.) </h1>
-<h3 align="center">Computer-Science, Hardware, and Slight Security Geek</h3>
+<h1 align="center"> XJN2 (Austin) </h1>
+<h3 align="center">
+  <a href="https://replit.com/@XJN3"><img alt="Replit Profile" src="https://img.shields.io/badge/Replit-XJN3-blueviolet"></a>
+  <a href="https://github.com/XJN2/XJN2/blob/main/discord.txt"><img alt="Discord" src="https://img.shields.io/badge/Discord-XJN2 4639-blueviolet"></a>
+  <a href="https://lmaobox.net/forum/v/profile/34538351/XJN2"><img alt="LBox Forums" src="https://img.shields.io/badge/LMAOBox-XJN2-blueviolet"></a>
+</h3>
 
-- Hi there! Welcome to my profile. My name is Austin, but you can just call me XJ. 
-- My dream is to be a software-engineer using Python. I have experience in Python, and slight experience in Lua, and Java.
-- I'm hoping to get certified as a dev as soon as I can.
-
-[My Replit Profile](https://replit.com/@XJN3)
+<p align="center">Future Software Developer that uses Python, and Lua.</p>
